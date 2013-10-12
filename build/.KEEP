@@ -1,0 +1,6 @@
+In this directory, run
+
+cmake ..
+make
+
+And then you're ready to run your program.
